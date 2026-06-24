@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ritu1331/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/Ritu1331/leetcode_solution/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ritu1331/leetcode_solution/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ritu1331/leetcode_solution/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ritu1331/leetcode_solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
