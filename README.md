@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ritu1331/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Ritu1331/leetcode_solution/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -69,9 +70,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ritu1331/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ritu1331/leetcode_solution/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ritu1331/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ritu1331/leetcode_solution/tree/master/0102-binary-tree-level-order-traversal) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ritu1331/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
