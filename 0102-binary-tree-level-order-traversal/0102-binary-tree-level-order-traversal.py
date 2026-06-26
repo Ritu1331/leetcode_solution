@@ -19,6 +19,7 @@ class Solution(object):
         ans = []
         
         q.append(root)
+        
         while q:
             temp = []
             levelsize = len(q)
@@ -32,6 +33,7 @@ class Solution(object):
                 
                 if node.right:
                     q.append(node.right)
+                
             
             ans.append(temp)
         return ans
