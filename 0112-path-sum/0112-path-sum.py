@@ -33,4 +33,6 @@ class Solution(object):
             return left or right
         
         return pathsum(root,0)
+
+        """copy paste this code to get simpler version of this code (true or false wlaa)"""
         
