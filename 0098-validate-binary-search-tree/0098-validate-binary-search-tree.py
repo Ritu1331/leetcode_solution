@@ -4,31 +4,35 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution(object):
+
     def isValidBST(self, root):
-        """
-        :type root: Optional[TreeNode]
-        :rtype: bool
-        """
+
         self.prev = None
+        self.ans = True
 
-        def inorder(node):
+        def inorder(root):
 
-            if node is None:
-                return True
+            if root is None:
+                return
 
-            if not inorder(node.left):
-                return False
+            # Step 1 : Visit left subtree
+            inorder(root.left)
 
-            if self.prev and node.val <= self.prev.val:
-                return False
+            # Step 2 : Process current node
+            if self.prev is None:
+                self.prev = root
+            else:
 
-            self.prev = node
+                if root.val <= self.prev.val:
+                    self.ans = False
 
-            return inorder(node.right)
+                self.prev = root
 
-        return inorder(root)
-            
+            # Step 3 : Visit right subtree
+            inorder(root.right)
 
+        inorder(root)
 
-        
+        return self.ans
