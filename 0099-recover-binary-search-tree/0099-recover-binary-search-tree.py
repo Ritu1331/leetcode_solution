@@ -10,40 +10,22 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: None Do not return anything, modify root in-place instead.
         """
-        # Same as:
-        # Node* prev = NULL;
+        
         self.prev = None
-
-        # Same as:
-        # Node* first = NULL;
         self.first = None
-
-        # Same as:
-        # Node* second = NULL;
         self.second = None
 
         def inorder(root):
 
-            # if(root == NULL)
             if root is None:
                 return
 
-            # fun(root->left)
             inorder(root.left)
 
-            # -------------------------
-            # Process Current Node
-            # -------------------------
-
-            # if(prev == NULL)
             if self.prev is None:
-
-                # prev = root;
                 self.prev = root
 
             else:
-
-                # if(root->data < prev->data)
                 if root.val < self.prev.val:
 
                     # First violation
@@ -61,15 +43,11 @@ class Solution(object):
                         # second = root;
                         self.second = root
 
-                # prev = root;
+                
                 self.prev = root
 
-            # fun(root->right)
             inorder(root.right)
-
-        # Start Inorder Traversal
         inorder(root)
 
-        # Swap the two wrong nodes
         self.first.val, self.second.val = self.second.val, self.first.val
         
