@@ -2,32 +2,43 @@ class Solution(object):
 
     def dfs(self, node, color, colors, graph):
 
+        # Color the current node
         colors[node] = color
 
+        # Visit all neighbours
         for neigh in graph[node]:
 
+            # If neighbour is not colored
             if colors[neigh] == -1:
 
-                colors[neigh] = 1 - color
+                # Color it with opposite color
+                if not self.dfs(neigh, 1 - color, colors, graph):
+                    return False
 
-                self.dfs(neigh, 1 - color, colors, graph)
-
+            # If neighbour has same color
             elif colors[neigh] == color:
+                return False
 
-                self.res = False
+        return True
+
 
     def isBipartite(self, graph):
+        """
+        :type graph: List[List[int]]
+        :rtype: bool
+        """
 
         n = len(graph)
 
+        # -1 = Not Colored
         colors = [-1] * n
 
-        self.res = True
-
+        # Graph may be disconnected
         for i in range(n):
 
             if colors[i] == -1:
 
-                self.dfs(i, 0, colors, graph)
+                if not self.dfs(i, 0, colors, graph):
+                    return False
 
-        return self.res
+        return True
