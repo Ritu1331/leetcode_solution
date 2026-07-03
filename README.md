@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritu1331/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Ritu1331/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Ritu1331/leetcode_solution/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Ritu1331/leetcode_solution/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritu1331/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1631-path-with-minimum-effort](https://github.com/Ritu1331/leetcode_solution/tree/master/1631-path-with-minimum-effort) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ritu1331/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritu1331/leetcode_solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/Ritu1331/leetcode_solution/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/Ritu1331/leetcode_solution/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -58,18 +61,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Ritu1331/leetcode_solution/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Ritu1331/leetcode_solution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Ritu1331/leetcode_solution/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Ritu1331/leetcode_solution/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ritu1331/leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ritu1331/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Ritu1331/leetcode_solution/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/Ritu1331/leetcode_solution/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ritu1331/leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ritu1331/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Ritu1331/leetcode_solution/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Ritu1331/leetcode_solution/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
 | ------- |
@@ -172,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Ritu1331/leetcode_solution/tree/master/0785-is-graph-bipartite) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Ritu1331/leetcode_solution/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
