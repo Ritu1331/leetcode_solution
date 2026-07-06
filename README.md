@@ -81,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ritu1331/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ritu1331/leetcode_solution/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ritu1331/leetcode_solution/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Ritu1331/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ritu1331/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ritu1331/leetcode_solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Recursion
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ritu1331/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ritu1331/leetcode_solution/tree/master/0509-fibonacci-number) |
 ## String
 |  |
