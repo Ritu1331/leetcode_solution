@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritu1331/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Ritu1331/leetcode_solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ritu1331/leetcode_solution/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ritu1331/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0994-rotting-oranges](https://github.com/Ritu1331/leetcode_solution/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Ritu1331/leetcode_solution/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ritu1331/leetcode_solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ritu1331/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Graph Theory
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ritu1331/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ritu1331/leetcode_solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Ritu1331/leetcode_solution/tree/master/1631-path-with-minimum-effort) |
 ## Linked List
@@ -214,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ritu1331/leetcode_solution/tree/master/0787-cheapest-flights-within-k-stops) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ritu1331/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ritu1331/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
