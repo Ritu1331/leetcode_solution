@@ -21,4 +21,4 @@ class Solution(object):
             avg += nums[high]
             res = max(res, avg)
 
-        return res / float(k)
+        return float(res) / float(k)
