@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ritu1331/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritu1331/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/Ritu1331/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Ritu1331/leetcode_solution/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Ritu1331/leetcode_solution/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ritu1331/leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ritu1331/leetcode_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Ritu1331/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Ritu1331/leetcode_solution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ritu1331/leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
