@@ -7,7 +7,7 @@ class Solution(object):
 
         for num in gain:
 
-            curr = max(0, curr + num)
+            curr = max(num , curr + num)
 
             best = max(best, curr)
 
