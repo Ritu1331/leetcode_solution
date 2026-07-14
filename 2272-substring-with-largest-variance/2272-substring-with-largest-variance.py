@@ -6,33 +6,50 @@ class Solution(object):
         """
         ans = 0
 
-        for a in set(s):
-            for b in set(s):
+        chars = set(s)
 
-                if a == b:
+        # Try every pair of characters
+        for major in chars:
+
+            for minor in chars:
+
+                if major == minor:
                     continue
 
-                countA = 0
-                countB = 0
-                remainB = s.count(b)
+                major_count = 0
+                minor_count = 0
+
+                # How many minor characters are still left
+                remaining_minor = s.count(minor)
 
                 for ch in s:
 
-                    if ch != a and ch != b:
+                    # Ignore other characters
+                    if ch != major and ch != minor:
                         continue
 
-                    if ch == a:
-                        countA += 1
+                    if ch == major:
+
+                        major_count += 1
+
                     else:
-                        countB += 1
-                        remainB -= 1
 
-                    if countB > 0:
-                        ans = max(ans, countA - countB)
+                        minor_count += 1
+                        remaining_minor -= 1
 
-                    if countA < countB and remainB > 0:
-                        countA = 0
-                        countB = 0
+                    # Update answer only if both chars exist
+                    if minor_count > 0:
+
+                        ans = max(
+                            ans,
+                            major_count - minor_count
+                        )
+
+                    # Kadane reset condition
+                    if (major_count < minor_count
+                            and remaining_minor > 0):
+
+                        major_count = 0
+                        minor_count = 0
 
         return ans
-        
