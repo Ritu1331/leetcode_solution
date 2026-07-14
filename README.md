@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ritu1331/leetcode_solution/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/1191-k-concatenation-maximum-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ritu1331/leetcode_solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2272-substring-with-largest-variance](https://github.com/Ritu1331/leetcode_solution/tree/master/2272-substring-with-largest-variance) |
 | [2321-maximum-score-of-spliced-array](https://github.com/Ritu1331/leetcode_solution/tree/master/2321-maximum-score-of-spliced-array) |
 ## Recursion
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ritu1331/leetcode_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0567-permutation-in-string) |
+| [2272-substring-with-largest-variance](https://github.com/Ritu1331/leetcode_solution/tree/master/2272-substring-with-largest-variance) |
 ## Backtracking
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ritu1331/leetcode_solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ritu1331/leetcode_solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [2272-substring-with-largest-variance](https://github.com/Ritu1331/leetcode_solution/tree/master/2272-substring-with-largest-variance) |
 ## Tree
 |  |
 | ------- |
@@ -315,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ritu1331/leetcode_solution/tree/master/0992-subarrays-with-k-different-integers) |
+## Enumeration
+|  |
+| ------- |
+| [2272-substring-with-largest-variance](https://github.com/Ritu1331/leetcode_solution/tree/master/2272-substring-with-largest-variance) |
 <!---LeetCode Topics End-->
