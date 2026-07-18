@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Ritu1331/leetcode_solution/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Ritu1331/leetcode_solution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ritu1331/leetcode_solution/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/Ritu1331/leetcode_solution/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
