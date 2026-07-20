@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ritu1331/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritu1331/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/Ritu1331/leetcode_solution/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritu1331/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritu1331/leetcode_solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Ritu1331/leetcode_solution/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Ritu1331/leetcode_solution/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/Ritu1331/leetcode_solution/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Ritu1331/leetcode_solution/tree/master/0206-reverse-linked-list) |
