@@ -15,13 +15,20 @@ class Solution(object):
 
             stack.append(digit)
 
+        # If some removals are still left
         while k > 0:
             stack.pop()
             k -= 1
 
-        result = "".join(stack)
+        ans = ""
 
-        result = result.lstrip('0')
+        for digit in stack:
+            ans += digit
 
-        return result if result else "0"
-        
+        # Remove leading zeros
+        ans = ans.lstrip("0")
+
+        if ans == "":
+            return "0"
+
+        return ans
