@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritu1331/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Ritu1331/leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0327-count-of-range-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0327-count-of-range-sum) |
+| [0503-next-greater-element-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritu1331/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ritu1331/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Ritu1331/leetcode_solution/tree/master/0724-find-pivot-index) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Ritu1331/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ritu1331/leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ritu1331/leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ritu1331/leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search Tree
 |  |
@@ -373,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Ritu1331/leetcode_solution/tree/master/0986-interval-list-intersections) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
