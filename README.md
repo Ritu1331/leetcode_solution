@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ritu1331/leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2272-substring-with-largest-variance](https://github.com/Ritu1331/leetcode_solution/tree/master/2272-substring-with-largest-variance) |
 ## Backtracking
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Ritu1331/leetcode_solution/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ritu1331/leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
