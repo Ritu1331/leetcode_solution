@@ -32,3 +32,16 @@ class Solution(object):
             return "0"
 
         return ans
+
+
+        ans = "000123"
+
+"""without builtin function    
+i = 0
+
+while i < len(ans) and ans[i] == "0":
+    i += 1
+
+ans = ans[i:]
+
+print(ans)"""
