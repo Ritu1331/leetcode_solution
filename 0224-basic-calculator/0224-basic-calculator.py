@@ -32,6 +32,7 @@ class Solution(object):
 
                 result = 0
                 sign = 1
+                number = 0
             
             elif ch == ")":
                 result = result + sign * number
@@ -39,7 +40,7 @@ class Solution(object):
                 number = 0
 
                 prev_sign = stack.pop()
-                
+
                 prev_result = stack.pop()
 
                 result = prev_result + prev_sign * result
