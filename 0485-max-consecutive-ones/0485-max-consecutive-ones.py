@@ -18,9 +18,6 @@ class Solution(object):
             else:
                 low = high + 1
                 count = 0
-
-         
-
         
         return max_count
 
