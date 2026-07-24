@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritu1331/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ritu1331/leetcode_solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Ritu1331/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ritu1331/leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/Ritu1331/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritu1331/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ritu1331/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ritu1331/leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ritu1331/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Ritu1331/leetcode_solution/tree/master/0785-is-graph-bipartite) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ritu1331/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Ritu1331/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ritu1331/leetcode_solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Ritu1331/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Ritu1331/leetcode_solution/tree/master/0146-lru-cache) |
 | [0383-ransom-note](https://github.com/Ritu1331/leetcode_solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
