@@ -8,9 +8,10 @@ class Solution(object):
         res = 0
 
         for num in s:
+            count = 0
             if num - 1 not in s:
                 curr = num
-                count = 1
+                count += 1
                 while curr + 1 in s:
                     count += 1
                     curr += 1
