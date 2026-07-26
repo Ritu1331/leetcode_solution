@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ritu1331/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritu1331/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Ritu1331/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Ritu1331/leetcode_solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Ritu1331/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Ritu1331/leetcode_solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ritu1331/leetcode_solution/tree/master/0739-daily-temperatures) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritu1331/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0327-count-of-range-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0327-count-of-range-sum) |
+| [0704-binary-search](https://github.com/Ritu1331/leetcode_solution/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ritu1331/leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Ritu1331/leetcode_solution/tree/master/1631-path-with-minimum-effort) |
 ## Depth-First Search
