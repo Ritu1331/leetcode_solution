@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Ritu1331/leetcode_solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritu1331/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ritu1331/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Ritu1331/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Ritu1331/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Ritu1331/leetcode_solution/tree/master/0735-asteroid-collision) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Ritu1331/leetcode_solution/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ritu1331/leetcode_solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/Ritu1331/leetcode_solution/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ritu1331/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ritu1331/leetcode_solution/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ritu1331/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ritu1331/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ritu1331/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ritu1331/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 ## Quickselect
 |  |
 | ------- |
