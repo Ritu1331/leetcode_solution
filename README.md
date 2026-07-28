@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Ritu1331/leetcode_solution/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2272-substring-with-largest-variance](https://github.com/Ritu1331/leetcode_solution/tree/master/2272-substring-with-largest-variance) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ritu1331/leetcode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ritu1331/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritu1331/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritu1331/leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ritu1331/leetcode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -477,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ritu1331/leetcode_solution/tree/master/0380-insert-delete-getrandom-o1) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ritu1331/leetcode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
