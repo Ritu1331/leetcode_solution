@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Ritu1331/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ritu1331/leetcode_solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0410-split-array-largest-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Ritu1331/leetcode_solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Ritu1331/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/0503-next-greater-element-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/0275-h-index-ii) |
 | [0327-count-of-range-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0327-count-of-range-sum) |
+| [0410-split-array-largest-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Ritu1331/leetcode_solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ritu1331/leetcode_solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ritu1331/leetcode_solution/tree/master/0875-koko-eating-bananas) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ritu1331/leetcode_solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Ritu1331/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ritu1331/leetcode_solution/tree/master/0198-house-robber) |
+| [0410-split-array-largest-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Ritu1331/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ritu1331/leetcode_solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ritu1331/leetcode_solution/tree/master/0918-maximum-sum-circular-subarray) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Ritu1331/leetcode_solution/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Ritu1331/leetcode_solution/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0410-split-array-largest-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ritu1331/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Ritu1331/leetcode_solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritu1331/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Ritu1331/leetcode_solution/tree/master/0724-find-pivot-index) |
