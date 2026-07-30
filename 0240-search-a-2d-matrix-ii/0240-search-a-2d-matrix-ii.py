@@ -5,19 +5,22 @@ class Solution(object):
         :type target: int
         :rtype: bool
         """
-        row = len(matrix) - 1
-        col = 0
+        m = len(matrix)
+        n = len(matrix[0])
 
-        while row >= 0 and col < len(matrix[0]):
+        row = 0
+        col = n - 1
+
+        while row < m and col >= 0:
 
             if matrix[row][col] == target:
                 return True
 
-            elif target < matrix[row][col]:
-                row -= 1      # move up
+            elif matrix[row][col] > target:
+                col -= 1
 
             else:
-                col += 1      # move right
+                row += 1
 
         return False
         
