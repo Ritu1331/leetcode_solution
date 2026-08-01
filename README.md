@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Ritu1331/leetcode_solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Ritu1331/leetcode_solution/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Ritu1331/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Ritu1331/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Ritu1331/leetcode_solution/tree/master/0525-contiguous-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ritu1331/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Ritu1331/leetcode_solution/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ritu1331/leetcode_solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/Ritu1331/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ritu1331/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritu1331/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ritu1331/leetcode_solution/tree/master/1248-count-number-of-nice-subarrays) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Ritu1331/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ritu1331/leetcode_solution/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/Ritu1331/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ritu1331/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ritu1331/leetcode_solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ritu1331/leetcode_solution/tree/master/0918-maximum-sum-circular-subarray) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Ritu1331/leetcode_solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Ritu1331/leetcode_solution/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Ritu1331/leetcode_solution/tree/master/0224-basic-calculator) |
+| [0486-predict-the-winner](https://github.com/Ritu1331/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ritu1331/leetcode_solution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -526,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ritu1331/leetcode_solution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
