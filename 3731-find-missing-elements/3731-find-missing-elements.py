@@ -4,13 +4,16 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        new = []
         seen = set(nums)
-        
-        for num in nums:
-            if nums - 1 in seen:
-                curr = nums
-            while nums:
-                new.append(nums + 1)
-        
-        return new
+
+        minimum = min(nums)
+        maximum = max(nums)
+
+        ans = []
+
+        for num in range(minimum, maximum + 1):
+
+            if num not in seen:
+                ans.append(num)
+
+        return ans
