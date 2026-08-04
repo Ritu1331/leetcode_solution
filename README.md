@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Ritu1331/leetcode_solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ritu1331/leetcode_solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ritu1331/leetcode_solution/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Ritu1331/leetcode_solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ritu1331/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Ritu1331/leetcode_solution/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ritu1331/leetcode_solution/tree/master/0380-insert-delete-getrandom-o1) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Ritu1331/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ritu1331/leetcode_solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Ritu1331/leetcode_solution/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Ritu1331/leetcode_solution/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/Ritu1331/leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Ritu1331/leetcode_solution/tree/master/0224-basic-calculator) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ritu1331/leetcode_solution/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Ritu1331/leetcode_solution/tree/master/0735-asteroid-collision) |
 ## Bucket Sort
 |  |
@@ -584,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ritu1331/leetcode_solution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
