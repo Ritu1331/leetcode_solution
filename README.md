@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ritu1331/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Ritu1331/leetcode_solution/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Ritu1331/leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Ritu1331/leetcode_solution/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/Ritu1331/leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Ritu1331/leetcode_solution/tree/master/0224-basic-calculator) |
