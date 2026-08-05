@@ -41,3 +41,5 @@ class Solution(object):
                 ans.append(i)
 
         return ans
+
+        '''sc and tc = (n + m)'''
