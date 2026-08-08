@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Ritu1331/leetcode_solution/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritu1331/leetcode_solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0986-interval-list-intersections](https://github.com/Ritu1331/leetcode_solution/tree/master/0986-interval-list-intersections) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ritu1331/leetcode_solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ritu1331/leetcode_solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2272-substring-with-largest-variance](https://github.com/Ritu1331/leetcode_solution/tree/master/2272-substring-with-largest-variance) |
 | [2321-maximum-score-of-spliced-array](https://github.com/Ritu1331/leetcode_solution/tree/master/2321-maximum-score-of-spliced-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ritu1331/leetcode_solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2272-substring-with-largest-variance](https://github.com/Ritu1331/leetcode_solution/tree/master/2272-substring-with-largest-variance) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ritu1331/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ritu1331/leetcode_solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ritu1331/leetcode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0410-split-array-largest-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ritu1331/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ritu1331/leetcode_solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
