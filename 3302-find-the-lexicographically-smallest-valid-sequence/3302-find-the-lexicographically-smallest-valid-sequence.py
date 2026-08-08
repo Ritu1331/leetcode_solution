@@ -29,7 +29,7 @@ class Solution(object):
                 j += 1
 
             # Use our one allowed mismatch
-            elif not changed:
+            elif word1[i] != word2[j] and changed == False:
                 
                 # If this is the last character,
                 # no suffix needs to be matched.
