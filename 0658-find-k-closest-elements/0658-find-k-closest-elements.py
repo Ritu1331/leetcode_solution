@@ -25,6 +25,9 @@ class Solution(object):
         ans.sort()
         
         return ans 
+
+        """Time Complexity  → O(n log k)
+Space Complexity → O(k)"""
         
 
         
