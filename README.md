@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ritu1331/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritu1331/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Ritu1331/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Ritu1331/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ritu1331/leetcode_solution/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Ritu1331/leetcode_solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Ritu1331/leetcode_solution/tree/master/0724-find-pivot-index) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Ritu1331/leetcode_solution/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritu1331/leetcode_solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Ritu1331/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0986-interval-list-intersections](https://github.com/Ritu1331/leetcode_solution/tree/master/0986-interval-list-intersections) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ritu1331/leetcode_solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ritu1331/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Ritu1331/leetcode_solution/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Ritu1331/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ritu1331/leetcode_solution/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/Ritu1331/leetcode_solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ritu1331/leetcode_solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Ritu1331/leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Ritu1331/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ritu1331/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Ritu1331/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ritu1331/leetcode_solution/tree/master/0692-top-k-frequent-words) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ritu1331/leetcode_solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Ritu1331/leetcode_solution/tree/master/0973-k-closest-points-to-origin) |
@@ -462,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ritu1331/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ritu1331/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritu1331/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Ritu1331/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ritu1331/leetcode_solution/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Ritu1331/leetcode_solution/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritu1331/leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -496,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Ritu1331/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Ritu1331/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Ritu1331/leetcode_solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ritu1331/leetcode_solution/tree/master/0992-subarrays-with-k-different-integers) |
