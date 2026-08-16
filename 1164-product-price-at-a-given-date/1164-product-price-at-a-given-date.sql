@@ -5,7 +5,7 @@ FROM Products
 GROUP BY product_id
 HAVING MIN(change_date) > '2019-08-16'
 
-UNION ALL
+UNION 
 
 SELECT
     product_id,
