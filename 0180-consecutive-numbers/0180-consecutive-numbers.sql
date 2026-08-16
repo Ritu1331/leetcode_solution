@@ -1,4 +1,4 @@
-SELECT DISTINCT l1.num AS ConsecutiveNums
+SELECT DISTINCT l2.num AS ConsecutiveNums
 FROM Logs l1
 JOIN Logs l2
     ON l2.id = l1.id + 1
