@@ -20,4 +20,7 @@ class Solution(object):
 
         return ans
 
+        """TC: O(n log k)
+SC: O(k)"""
+
         
