@@ -40,7 +40,7 @@ class Solution(object):
                 elif temp:
                     time += 1
 
-                else:
+                else: #when heap and temp both empty
                     break
 
             # Put remaining tasks back
