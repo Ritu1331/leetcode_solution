@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ritu1331/leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ritu1331/leetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ritu1331/leetcode_solution/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1046-last-stone-weight](https://github.com/Ritu1331/leetcode_solution/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/1191-k-concatenation-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ritu1331/leetcode_solution/tree/master/1248-count-number-of-nice-subarrays) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Ritu1331/leetcode_solution/tree/master/0692-top-k-frequent-words) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ritu1331/leetcode_solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Ritu1331/leetcode_solution/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Ritu1331/leetcode_solution/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ritu1331/leetcode_solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritu1331/leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Ritu1331/leetcode_solution/tree/master/1631-path-with-minimum-effort) |
