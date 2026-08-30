@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ritu1331/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Ritu1331/leetcode_solution/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritu1331/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/Ritu1331/leetcode_solution/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/Ritu1331/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Ritu1331/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ritu1331/leetcode_solution/tree/master/0692-top-k-frequent-words) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ritu1331/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Ritu1331/leetcode_solution/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Ritu1331/leetcode_solution/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Ritu1331/leetcode_solution/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/Ritu1331/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ritu1331/leetcode_solution/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0767-reorganize-string) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Ritu1331/leetcode_solution/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Ritu1331/leetcode_solution/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritu1331/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/Ritu1331/leetcode_solution/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/Ritu1331/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ritu1331/leetcode_solution/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0767-reorganize-string) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Ritu1331/leetcode_solution/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Ritu1331/leetcode_solution/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Ritu1331/leetcode_solution/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Ritu1331/leetcode_solution/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Ritu1331/leetcode_solution/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Ritu1331/leetcode_solution/tree/master/0871-minimum-number-of-refueling-stops) |
