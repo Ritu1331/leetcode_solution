@@ -771,4 +771,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/Ritu1331/leetcode_solution/tree/master/0480-sliding-window-median) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ritu1331/leetcode_solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
