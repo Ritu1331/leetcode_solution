@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritu1331/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ritu1331/leetcode_solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/Ritu1331/leetcode_solution/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Ritu1331/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ritu1331/leetcode_solution/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0410-split-array-largest-sum) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Ritu1331/leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ritu1331/leetcode_solution/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Ritu1331/leetcode_solution/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/Ritu1331/leetcode_solution/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Ritu1331/leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Ritu1331/leetcode_solution/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Ritu1331/leetcode_solution/tree/master/0242-valid-anagram) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ritu1331/leetcode_solution/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Ritu1331/leetcode_solution/tree/master/0131-palindrome-partitioning) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
 |  |
