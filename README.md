@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ritu1331/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ritu1331/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Ritu1331/leetcode_solution/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Ritu1331/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ritu1331/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ritu1331/leetcode_solution/tree/master/0056-merge-intervals) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ritu1331/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ritu1331/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Ritu1331/leetcode_solution/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/0113-path-sum-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
