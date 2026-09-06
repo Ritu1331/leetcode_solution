@@ -13,30 +13,26 @@ class Solution(object):
         :type q: TreeNode
         :rtype: TreeNode
         """
-        self.ans = None
-        def dfs(node):
-            if node is None:
-                return 0
-            
-            left = dfs(node.left)
-            right = dfs(node.right)
 
-            if node == p or node == q:
-                self_node = 1
-            else:
-                self_node = 0
-            
-            total = left + right + self_node
+        # Base case
+        if root is None:
+            return None
 
-            if total == 2 and self.ans is None:
-                self.ans = node
+        # If current node is p or q
+        if root == p or root == q:
+            return root
 
-            return total
+        # DFS on left and right
+        left = self.lowestCommonAncestor(root.left, p, q)
+        right = self.lowestCommonAncestor(root.right, p, q)
 
-        dfs(root)
+        # p and q found on different sides
+        if left and right:
+            return root
 
-        return self.ans
+        # Return whichever side found p or q
+        if left:
+            return left
 
-
-
+        return right
         
