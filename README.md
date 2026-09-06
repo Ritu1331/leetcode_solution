@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Ritu1331/leetcode_solution/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ritu1331/leetcode_solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Ritu1331/leetcode_solution/tree/master/0951-flip-equivalent-binary-trees) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ritu1331/leetcode_solution/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1631-path-with-minimum-effort](https://github.com/Ritu1331/leetcode_solution/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/Ritu1331/leetcode_solution/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ritu1331/leetcode_solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Ritu1331/leetcode_solution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Ritu1331/leetcode_solution/tree/master/0994-rotting-oranges) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ritu1331/leetcode_solution/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1631-path-with-minimum-effort](https://github.com/Ritu1331/leetcode_solution/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/Ritu1331/leetcode_solution/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ritu1331/leetcode_solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ritu1331/leetcode_solution/tree/master/0992-subarrays-with-k-different-integers) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ritu1331/leetcode_solution/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritu1331/leetcode_solution/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ritu1331/leetcode_solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [2272-substring-with-largest-variance](https://github.com/Ritu1331/leetcode_solution/tree/master/2272-substring-with-largest-variance) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Ritu1331/leetcode_solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Ritu1331/leetcode_solution/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Ritu1331/leetcode_solution/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ritu1331/leetcode_solution/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Ritu1331/leetcode_solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Ritu1331/leetcode_solution/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Ritu1331/leetcode_solution/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ritu1331/leetcode_solution/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Stack
 |  |
 | ------- |
@@ -799,9 +804,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ritu1331/leetcode_solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ritu1331/leetcode_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ritu1331/leetcode_solution/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ritu1331/leetcode_solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ritu1331/leetcode_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ritu1331/leetcode_solution/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## DP on Trees
+|  |
+| ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ritu1331/leetcode_solution/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
