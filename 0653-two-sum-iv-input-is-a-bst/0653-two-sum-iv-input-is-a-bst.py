@@ -13,69 +13,18 @@ class Solution(object):
         :rtype: bool
         """
 
-        if not root:
-            return False
+        seen = set()
 
-        # Stack for inorder iterator (smallest -> largest)
-        asc = []
-
-        # Stack for reverse inorder iterator (largest -> smallest)
-        desc = []
-
-        # Push all left nodes
-        node = root
-        while node:
-            asc.append(node)
-            node = node.left
-
-        # Push all right nodes
-        node = root
-        while node:
-            desc.append(node)
-            node = node.right
-
-        # -------- getSmall() --------
-        def getSmall():
-            if not asc:
-                return None
-
-            small = asc.pop()
-
-            node = small.right
-            while node:
-                asc.append(node)
-                node = node.left
-
-            return small
-
-        # -------- getBig() --------
-        def getBig():
-            if not desc:
-                return None
-
-            big = desc.pop()
-
-            node = big.left
-            while node:
-                desc.append(node)
-                node = node.right
-
-            return big
-
-        left = getSmall()
-        right = getBig()
-
-        while left != right:
-
-            total = left.val + right.val
-
-            if total == k:
+        def dfs(root):
+            if root is None:
+                return False
+            
+            need = k - root.val
+            if need in seen:
                 return True
-
-            elif total < k:
-                left = getSmall()
-
             else:
-                right = getBig()
-
-        return False
+                seen.add(root.val)
+            
+            return dfs(root.left) or dfs(root.right)
+        
+        return dfs(root)
