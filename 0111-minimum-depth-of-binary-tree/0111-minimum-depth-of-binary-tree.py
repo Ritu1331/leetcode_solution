@@ -4,6 +4,8 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
+
 class Solution(object):
     def minDepth(self, root):
         """
@@ -26,4 +28,20 @@ class Solution(object):
             
             return min(depth_left , depth_right) + 1
         return dfs(root)
+
+
+'''root = TreeNode(3)
+root.left = TreeNode(9)
+root.right = TreeNode(20)
+root.right.left = TreeNode(15)
+root.right.right = TreeNode(7)
+
+# Create Solution object
+r = Solution()
+
+# Call function
+answer = r.minDepth(root)
+
+print(answer)'''
+
         
