@@ -829,5 +829,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Ritu1331/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ritu1331/leetcode_solution/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
