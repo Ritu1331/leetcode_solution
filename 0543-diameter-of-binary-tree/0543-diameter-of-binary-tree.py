@@ -10,32 +10,21 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        def dfs(root):
+        self.res = 0
 
-            # Empty node
-            if root is None:
-                return 0, 0
+        def height(node):
 
-            # Left: height, diameter
-            left_height, left_diameter = dfs(root.left)
+            if node is None:
+                return 0
 
-            # Right: height, diameter
-            right_height, right_diameter = dfs(root.right)
+            left = height(node.left)
+            right = height(node.right)
 
-            # Current node ke through diameter
-            current_diameter = left_height + right_height
+            self.res = max(self.res, left + right)
 
-            # Current subtree ki height
-            height = max(left_height, right_height) + 1
+            return 1 + max(left, right)
 
-            # Height aur maximum diameter return
-            diameter = max(current_diameter,
-                           left_diameter,
-                           right_diameter)
+        height(root)
 
-            return height, diameter
-
-        height, diameter = dfs(root)
-
-        return diameter
+        return self.res
         
