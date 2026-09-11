@@ -11,28 +11,16 @@ class Solution(object):
         :type targetSum: int
         :rtype: bool
         """
-        def pathsum(root,sum):
-            res = False 
-
-            if root is None:
-                res = False
-                return res
+        if root is None :
+            return False
         
-            sum +=root.val
+        targetSum = targetSum - root.val
 
-            if (root.left is None and root.right is None):
-                if(sum == targetSum):
-                    res = True
-                    return res
-            
-            left = pathsum(root.left,sum)
-            right = pathsum(root.right,sum)
+        if root.left is None and root.right is None:
+            return targetSum == 0 #true else False
 
-        
+        R1 = self.hasPathSum(root.left, targetSum)
+        R2 = self.hasPathSum(root.right, targetSum)
 
-            return left or right
-        
-        return pathsum(root,0)
-
-        """copy paste this code to get simpler version of this code (true or false wlaa)"""
+        return R1 or R2
         
