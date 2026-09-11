@@ -10,44 +10,30 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: None Do not return anything, modify root in-place instead.
         """
-        
         self.prev = None
         self.first = None
         self.second = None
 
         def inorder(root):
-
             if root is None:
-                return
+                return None
 
             inorder(root.left)
+            self.curr = root
 
-            if self.prev is None:
-                self.prev = root
-
-            else:
-                if root.val < self.prev.val:
+            if self.prev is not None:
+                if self.prev.val > root.val:
 
                     # First violation
                     if self.first is None:
-
-                        # first = prev;
                         self.first = self.prev
 
-                        # second = root;
-                        self.second = root
+                    # Current node of violation
+                    self.second = root
 
-                    # Second violation
-                    else:
-
-                        # second = root;
-                        self.second = root
-
-                
-                self.prev = root
+            self.prev = root
 
             inorder(root.right)
-        inorder(root)
 
+        inorder(root)
         self.first.val, self.second.val = self.second.val, self.first.val
-        
