@@ -19,7 +19,7 @@ class Solution(object):
                 return None
 
             inorder(root.left)
-            self.curr = root
+            #self.curr = root
 
             if self.prev is not None:
                 if self.prev.val > root.val:
