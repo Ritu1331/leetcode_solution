@@ -11,30 +11,28 @@ class Solution(object):
         :type targetSum: int
         :rtype: List[List[int]]
         """
-        
         res = []
 
-        def dfs(root, total, diary):
+        def dfs(root, path, target):
 
             if root is None:
                 return
+            
+            path.append(root.val)
 
-            total += root.val
-            diary.append(root.val)
-
-            # Leaf node
+            target = target- root.val
             if root.left is None and root.right is None:
+                if target == 0:
+                    res.append(path[:])
 
-                if total == targetSum:
-                    res.append(diary[:])   # store a copy
 
-            else:
-                dfs(root.left, total, diary)
-                dfs(root.right, total, diary)
+            dfs(root.left, path, target)
+            dfs(root.right, path, target)
+        
+            path.pop()
 
-            # Backtrack
-            diary.pop()
-
-        dfs(root, 0, [])
-
+        dfs(root, [], targetSum)
+            
         return res
+        
+        
