@@ -29,7 +29,7 @@ class Solution(object):
 
             root.right = build(mid + 1, high)
             root.left = build(low, mid - 1)
-            
+
             return root
         
-        return build(0 , len(postorder)-1)
+        return build(0 , len(inorder)-1)
