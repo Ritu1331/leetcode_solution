@@ -852,4 +852,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Ritu1331/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ritu1331/leetcode_solution/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ritu1331/leetcode_solution/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ritu1331/leetcode_solution/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
