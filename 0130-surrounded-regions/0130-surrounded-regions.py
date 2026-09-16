@@ -72,3 +72,7 @@ class Solution(object):
 
                 elif board[i][j] == '#':
                     board[i][j] = 'O'
+
+"""Agar koi O boundary (border) tak connected hai, toh usko change nahi karna.
+
+Sirf woh O change hoga jo boundary tak nahi pahunch sakta.""" 
