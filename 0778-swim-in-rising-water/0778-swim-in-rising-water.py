@@ -39,3 +39,5 @@ class Solution(object):
                 
 
           
+'''Time Complexity: O(n² log n)
+Space Complexity: O(n²)'''
