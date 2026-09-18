@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ritu1331/leetcode_solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Ritu1331/leetcode_solution/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Ritu1331/leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ritu1331/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Ritu1331/leetcode_solution/tree/master/0226-invert-binary-tree) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Ritu1331/leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ritu1331/leetcode_solution/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Ritu1331/leetcode_solution/tree/master/0071-simplify-path) |
+| [0127-word-ladder](https://github.com/Ritu1331/leetcode_solution/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Ritu1331/leetcode_solution/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Ritu1331/leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Ritu1331/leetcode_solution/tree/master/0224-basic-calculator) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ritu1331/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ritu1331/leetcode_solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ritu1331/leetcode_solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Ritu1331/leetcode_solution/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Ritu1331/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Ritu1331/leetcode_solution/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Ritu1331/leetcode_solution/tree/master/0205-isomorphic-strings) |
@@ -879,4 +882,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Ritu1331/leetcode_solution/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Ritu1331/leetcode_solution/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Ritu1331/leetcode_solution/tree/master/1631-path-with-minimum-effort) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Ritu1331/leetcode_solution/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
