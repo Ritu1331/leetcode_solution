@@ -26,7 +26,7 @@ class Solution(object):
                 continue
 
             for k in range(4):
-                r = row + x[k]
+                r = row   + x[k]
                 c = col + y[k]
 
                 if r < 0 or c < 0 or r >= m or c >= n:
