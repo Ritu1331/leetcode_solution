@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Ritu1331/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ritu1331/leetcode_solution/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/Ritu1331/leetcode_solution/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Ritu1331/leetcode_solution/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Ritu1331/leetcode_solution/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/Ritu1331/leetcode_solution/tree/master/0127-word-ladder) |
