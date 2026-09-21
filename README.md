@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ritu1331/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ritu1331/leetcode_solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Ritu1331/leetcode_solution/tree/master/0455-assign-cookies) |
 | [0480-sliding-window-median](https://github.com/Ritu1331/leetcode_solution/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Ritu1331/leetcode_solution/tree/master/0485-max-consecutive-ones) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ritu1331/leetcode_solution/tree/master/0198-house-robber) |
 | [0377-combination-sum-iv](https://github.com/Ritu1331/leetcode_solution/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Ritu1331/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Ritu1331/leetcode_solution/tree/master/0509-fibonacci-number) |
@@ -895,9 +897,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
