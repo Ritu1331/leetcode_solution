@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/Ritu1331/leetcode_solution/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Ritu1331/leetcode_solution/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Ritu1331/leetcode_solution/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Ritu1331/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Ritu1331/leetcode_solution/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/0503-next-greater-element-ii) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Ritu1331/leetcode_solution/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Ritu1331/leetcode_solution/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Ritu1331/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ritu1331/leetcode_solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Ritu1331/leetcode_solution/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Ritu1331/leetcode_solution/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ritu1331/leetcode_solution/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
 |  |
@@ -889,4 +892,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Ritu1331/leetcode_solution/tree/master/0127-word-ladder) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
