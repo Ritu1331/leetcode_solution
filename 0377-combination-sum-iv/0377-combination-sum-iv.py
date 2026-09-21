@@ -14,7 +14,7 @@ class Solution(object):
             for num in nums:
 
                 if num <= j:
-                    dp[j] += dp[j - num]
+                    dp[j]  = dp[j] + dp[j - num]
 
         return dp[target]
         
