@@ -17,7 +17,8 @@ class Solution(object):
                 else:
                     ans += 1
 
-
-        
         return balance + ans 
+        
+        """ans     → missing '('
+balance → missing ')'"""
             
