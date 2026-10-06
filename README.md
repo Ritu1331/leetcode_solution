@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Ritu1331/leetcode_solution/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0767-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritu1331/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ritu1331/leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritu1331/leetcode_solution/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Ritu1331/leetcode_solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ritu1331/leetcode_solution/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritu1331/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ritu1331/leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Binary Search Tree
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Ritu1331/leetcode_solution/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Ritu1331/leetcode_solution/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritu1331/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ritu1331/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ritu1331/leetcode_solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -865,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ritu1331/leetcode_solution/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritu1331/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Hash Function
 |  |
 | ------- |
