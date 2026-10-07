@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ritu1331/leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ritu1331/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Ritu1331/leetcode_solution/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Ritu1331/leetcode_solution/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/Ritu1331/leetcode_solution/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritu1331/leetcode_solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Ritu1331/leetcode_solution/tree/master/0743-network-delay-time) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Ritu1331/leetcode_solution/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Ritu1331/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ritu1331/leetcode_solution/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/Ritu1331/leetcode_solution/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Ritu1331/leetcode_solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritu1331/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Ritu1331/leetcode_solution/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ritu1331/leetcode_solution/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/Ritu1331/leetcode_solution/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
