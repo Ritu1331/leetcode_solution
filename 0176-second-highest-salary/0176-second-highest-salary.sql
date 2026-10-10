@@ -1,6 +1,3 @@
-
-
-
 SELECT MAX(salary) AS SecondHighestSalary
 FROM (
     SELECT salary,
