@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2321-maximum-score-of-spliced-array](https://github.com/Ritu1331/leetcode_solution/tree/master/2321-maximum-score-of-spliced-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ritu1331/leetcode_solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ritu1331/leetcode_solution/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ritu1331/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ritu1331/leetcode_solution/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Ritu1331/leetcode_solution/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ritu1331/leetcode_solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [2272-substring-with-largest-variance](https://github.com/Ritu1331/leetcode_solution/tree/master/2272-substring-with-largest-variance) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ritu1331/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Ritu1331/leetcode_solution/tree/master/3731-find-missing-elements) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ritu1331/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ritu1331/leetcode_solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ritu1331/leetcode_solution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ritu1331/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ritu1331/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ritu1331/leetcode_solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ritu1331/leetcode_solution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ritu1331/leetcode_solution/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Ritu1331/leetcode_solution/tree/master/0191-number-of-1-bits) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ritu1331/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Number Theory
 |  |
 | ------- |
