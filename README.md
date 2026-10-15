@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ritu1331/leetcode_solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ritu1331/leetcode_solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ritu1331/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ritu1331/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3731-find-missing-elements](https://github.com/Ritu1331/leetcode_solution/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Ritu1331/leetcode_solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [2272-substring-with-largest-variance](https://github.com/Ritu1331/leetcode_solution/tree/master/2272-substring-with-largest-variance) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ritu1331/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ritu1331/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ritu1331/leetcode_solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Ritu1331/leetcode_solution/tree/master/3731-find-missing-elements) |
@@ -716,10 +718,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0327-count-of-range-sum) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ritu1331/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Ritu1331/leetcode_solution/tree/master/0327-count-of-range-sum) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ritu1331/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Merge Sort
 |  |
 | ------- |
